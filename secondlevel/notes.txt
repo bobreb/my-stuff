@@ -1,0 +1,5 @@
+Bob,
+
+Need some values to set up the event tracking:  category, action, label, value.  Currently there are are three events to track:  popup form, embedded form, and thanks.  Let me know if you need any help figuring out how to set these.  Docs here:
+
+https://developers.google.com/analytics/devguides/collection/analyticsjs/events
